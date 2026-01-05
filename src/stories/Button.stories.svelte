@@ -28,4 +28,6 @@
 
 <Story name="Large" args={{ size: 'large', label: 'Button' }} />
 
+<Story name="Medium" args={{ size: 'medium', label: 'Button' }} />
+
 <Story name="Small" args={{ size: 'small', label: 'Button' }} />
