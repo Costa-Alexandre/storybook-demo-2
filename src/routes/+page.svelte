@@ -7,6 +7,6 @@
 <Button
   primary={true}
   size="large"
-  label="Click Me!"
+  label="Click Mine!"
   onclick={() => alert('Button clicked!')}
 />
