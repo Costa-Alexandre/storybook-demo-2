@@ -55,7 +55,7 @@
 		font-size: 14px;
 	}
 	.storybook-button--large {
-		padding: 12px 24px;
-		font-size: 16px;
+		padding: 16px 32px;
+		font-size: 20px;
 	}
 </style>
