@@ -38,8 +38,8 @@
 		font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
 	.storybook-button--primary {
-		background-color: #555ab9;
-		color: white;
+		background-color: #aa88ff;
+		color: black;
 	}
 	.storybook-button--secondary {
 		box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
