@@ -31,7 +31,7 @@
 	.storybook-button {
 		display: inline-block;
 		cursor: pointer;
-		border: 0;
+		border: 2px solid black;
 		border-radius: 3em;
 		font-weight: 700;
 		line-height: 1;
