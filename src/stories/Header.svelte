@@ -38,6 +38,7 @@
 			{:else}
 				<Button size="small" onclick={onLogin} label="Log in" />
 				<Button primary size="small" onclick={onCreateAccount} label="Sign up" />
+				<Button primary size="small" label="Dummy Button" />
 			{/if}
 		</div>
 	</div>
