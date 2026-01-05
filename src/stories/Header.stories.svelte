@@ -21,6 +21,6 @@
   });
 </script>
 
-<Story name="Logged In" args={{ user: { name: 'Jane Doe' } }} />
+<Story name="Logged In" args={{ user: { name: 'John Doe' } }} />
 
 <Story name="Logged Out" />
