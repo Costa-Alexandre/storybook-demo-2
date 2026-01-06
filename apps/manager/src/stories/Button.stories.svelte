@@ -24,3 +24,5 @@
 <!-- More on writing stories with args: https://storybook.js.org/docs/writing-stories/args -->
 
 <Story name="Large" args={{ size: 'large', label: 'Button' }} />
+
+<Story name="Crazy" args={{ size: 'large', label: 'Crazy', primary: false }} />
