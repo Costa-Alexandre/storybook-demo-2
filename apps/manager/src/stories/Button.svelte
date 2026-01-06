@@ -1,5 +1,4 @@
 <script lang="ts">
-	import './button.css';
 
 	interface Props {
 		/** Is this the principal call to action on the page? */
