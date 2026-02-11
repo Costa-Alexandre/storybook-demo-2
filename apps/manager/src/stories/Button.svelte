@@ -26,6 +26,7 @@
 	{...props}
 >
 	{label}
+	:
 </button>
 
 <style>
@@ -49,7 +50,7 @@
 	}
 	.storybook-button--small {
 		padding: 10px 16px;
-		font-size: 12px;
+		font-size: 14px;
 	}
 	.storybook-button--medium {
 		padding: 11px 20px;
