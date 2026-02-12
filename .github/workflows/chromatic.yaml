@@ -1,6 +1,11 @@
 name: "Chromatic"
 
-on: workflow_dispatch
+on:
+    pull_request:
+        types: [opened, synchronize, reopened, ready_for_review]
+    push:
+        branches:
+            - main
 
 jobs:
   chromatic:
@@ -20,8 +25,3 @@ jobs:
         uses: chromaui/action@latest
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-      - name: Run Nested Chromatic
-        uses: chromaui/action@latest
-        with:
-          projectToken: ${{ secrets.CHROMATIC_NESTED_TOKEN }}
-          workingDir: apps/manager
