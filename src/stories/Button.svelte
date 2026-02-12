@@ -25,7 +25,7 @@
 	{...props}
 >
 	{label}
-</button>;
+</button>
 
 <style>
 	.storybook-button {
