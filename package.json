@@ -15,8 +15,8 @@
 		"test:e2e": "playwright test",
 		"test": "npm run test:e2e",
 		"storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "chromatic": "chromatic --exit-zero-on-changes"
+		"build-storybook": "storybook build",
+		"chromatic": "chromatic --exit-zero-on-changes"
 	},
 	"devDependencies": {
 		"@chromatic-com/storybook": "^4.1.3",
@@ -34,7 +34,7 @@
 		"@types/node": "^22",
 		"@vitest/browser-playwright": "^4.0.16",
 		"@vitest/coverage-v8": "^4.0.16",
-		"chromatic": "^13.3.4",
+		"chromatic": "^15.1.0",
 		"eslint": "^9.39.1",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-storybook": "^10.1.10",

@@ -49,15 +49,15 @@
 		color: #333;
 	}
 	.storybook-button--small {
-		padding: 10px 16px;
+		padding: 10px 20px;
 		font-size: 14px;
 	}
 	.storybook-button--medium {
-		padding: 11px 20px;
-		font-size: 14px;
+		padding: 11px 24px;
+		font-size: 16px;
 	}
 	.storybook-button--large {
-		padding: 12px 24px;
-		font-size: 16px;
+		padding: 12px 28px;
+		font-size: 18px;
 	}
 </style>
