@@ -25,7 +25,7 @@
 	{...props}
 >
 	{label}
-</button>
+</button>;
 
 <style>
 	.storybook-button {
@@ -47,15 +47,15 @@
 		color: #333;
 	}
 	.storybook-button--small {
-		padding: 10px 16px;
-		font-size: 12px;
-	}
-	.storybook-button--medium {
-		padding: 11px 20px;
+		padding: 10px 20px;
 		font-size: 14px;
 	}
+	.storybook-button--medium {
+		padding: 11px 24px;
+		font-size: 16px;
+	}
 	.storybook-button--large {
-		padding: 16px 32px;
-		font-size: 20px;
+		padding: 16px 36px;
+		font-size: 22px;
 	}
 </style>
