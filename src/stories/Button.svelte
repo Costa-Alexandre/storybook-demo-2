@@ -39,7 +39,7 @@
 	}
 	.storybook-button--primary {
 		background-color: #3c3c3c;
-		color: #0b0b0b;
+		color: #ffffff;
 	}
 	.storybook-button--secondary {
 		box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
