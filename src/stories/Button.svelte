@@ -38,7 +38,7 @@
 		font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	}
 	.storybook-button--primary {
-		background-color: #aa88ff;
+		background-color: #3c3c3c;
 		color: #0b0b0b;
 	}
 	.storybook-button--secondary {
